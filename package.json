@@ -1,0 +1,30 @@
+{
+  "name": "your-first-pwapp",
+  "version": "2.0.0",
+  "description": "Codelab for Your First PWAPP",
+  "homepage": "https://github.com/Ks5810/MyFirstPwapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/googlecodelabs/your-first-pwapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/googlecodelabs/your-first-pwapp/issues"
+  },
+  "license": "Apache2",
+  "keywords": [
+    "progressive-web-app",
+    "pwa",
+    "installable web app"
+  ],
+  "devDependencies": {
+    "gh-pages-deploy": "^0.5.1"
+  },
+  "dependencies": {}
+}
