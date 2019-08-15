@@ -23,8 +23,3 @@
     "pwa",
     "installable web app"
   ],
-  "devDependencies": {
-    "gh-pages-deploy": "^0.5.1"
-  },
-  "dependencies": {}
-}
