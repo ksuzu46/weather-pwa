@@ -53,9 +53,10 @@
   <header class="header">
     <h1>
       My First PWA
+      <!--
       <a href="https://darksky.net/poweredby/" class="powered-by">
         Powered by Dark Sky
-      </a>
+      </a><-->
     </h1>
     <button id="butInstall" aria-label="Install" hidden></button>
     <button id="butRefresh" aria-label="Refresh"></button>
@@ -212,7 +213,10 @@
 
   <script src="scripts/luxon-1.11.4.js"></script>
   <script src="scripts/app.js"></script>
+
   <!-- CODELAB: Add the install script here -->
+  <script src="/scripts/install.js"></script>
+
   <script>
     // CODELAB: Register service worker.
     if ('serviceWorker' in navigator) {
