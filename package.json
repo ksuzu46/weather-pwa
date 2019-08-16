@@ -1,5 +1,5 @@
 {
-  "name": "your-first-pwapp",
+  "name": "my-first-weather-pwa",
   "version": "2.0.0",
   "description": "Codelab for Your First PWAPP",
   "homepage": "https://github.com/Ks5810/MyFirstPwapp",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlecodelabs/your-first-pwapp.git"
+    "url": "https://github.com/Ks5810/MyFirstPwapp.git"
   },
   "bugs": {
     "url": "https://github.com/googlecodelabs/your-first-pwapp/issues"
