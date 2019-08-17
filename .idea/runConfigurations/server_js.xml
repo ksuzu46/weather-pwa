@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="server.js" type="NodeJSConfigurationType" singleton="false" path-to-node="node" nameIsGenerated="true" node-parameters="--require dotenv/config" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser start="true" with-js-debugger="true" url="http://localhost:8080" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>

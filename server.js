@@ -190,7 +190,7 @@ function startServer() {
   // Start the server
   return app.listen(process.env.PORT, () => {
     // eslint-disable-next-line no-console
-    console.log('Local DevServer Started on port 8080...');
+    console.log('Local DevServer Started on port ${process.env.PORT} ...');
   });
 }
 

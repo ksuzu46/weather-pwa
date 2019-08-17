@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="update server.js" type="js.build_tools.npm" singleton="false">
+    <package-json value="$PROJECT_DIR$/package.json" />
+    <command value="update" />
+    <node-interpreter value="node" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
